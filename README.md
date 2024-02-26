@@ -8,7 +8,7 @@ A cyber security student, looking forward to work and enhance my career in the f
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 Skills
-★★★★★ Data Structures & Algorithms
+★★★★★ Data Structures & Algorithms /br
 ★★★★★ Computer Networks
 ★★★★★ Cryptography
 ★★★☆☆ Encryption
