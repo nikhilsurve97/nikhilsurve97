@@ -10,9 +10,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
 Skills
 
 
+| Data Structures & Algorithms | Computer Networks  |
 | ------------- | ------------- |
-| Data Structures & Algorithms  | Computer Networks  |
-| Encryption| Cryptography  |
+| Encryption| Cryptography      |
 | Ethical hacking  | Operating Systems (Mac, Linux, Windows)  |
 | Metasploit Framework| Programming (Python, GoLang, Java, C++|
 | Reverse Engineering| Splunk  |
