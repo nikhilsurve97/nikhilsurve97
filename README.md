@@ -8,24 +8,16 @@ A cyber security student, looking forward to work and enhance my career in the f
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 Skills
-★★★★★ Data Structures & Algorithms
 
-★★★★★ Computer Networks
 
-★★★★★ Cryptography
+| ------------- | ------------- |
+| Data Structures & Algorithms  | Computer Networks  |
+| Encryption| Cryptography  |
+| Ethical hacking  | Operating Systems (Mac, Linux, Windows)  |
+| Metasploit Framework| Programming (Python, GoLang, Java, C++|
+| Reverse Engineering| Splunk  |
+| Wireshark  | Nessus  |
 
-★★★☆☆ Encryption
-
-★★★★☆ Ethical Hacking
-★★★★☆ Operating Systems
-(Unix, Linux, Windows, Mac)
-★★★☆☆ Metasploit Framework
-★★★☆☆ Programming (Python, Go,
-JavaScript)
-★★★★★ Reverse Engineering
-★★★☆☆ Splunk
-★★★☆☆ Wireshark
-★★★★☆ Nessus
 
 
 Skill	Associated Project
