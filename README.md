@@ -27,7 +27,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 **Skill	Associated Project**
 | Projects        | Project Repo |
 | -------------         | ------------- |
-| Image Encryption GUI  | <a href="//https://github.com/nikhilsurve97/Image-Encryption-GUI">Image Encryption GUI</a>                          |
+| Image Encryption GUI  | <a href="https://github.com/nikhilsurve97/Image-Encryption-GUI">Image Encryption GUI</a>                          |
 | Text Encryption GUI   | <a href="https://github.com/nikhilsurve97/Encryption-Decryption-App">Text Encryption & Decryption GUI</a>           |
 | Keylogger code        | <a href="https://github.com/nikhilsurve97/keylogger">Keylogger using python </a>                                    |
 
